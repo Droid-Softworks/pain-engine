@@ -1,2 +1,2 @@
 # purge.engine
-Purge Software's HERO Engine. (engine may have some differences between hero and public)
+Hero's (Pain) Engine developed by Droid Softworks. (engine may have some differences between Hero and Pain)
